@@ -12,7 +12,7 @@ source myenv/bin/activate
 
 Clone the Project
 ```
-git clone git@github.com:soumilshah1995/xorq.git
+git clone https://github.com/xorq-labs/xorq.git
 cd xorq
 git checkout dan/examples/multi-duck
 pip install -e .
